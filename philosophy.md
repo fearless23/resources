@@ -15,7 +15,7 @@ As soon as you know that your concept will work, you can move forward with build
 Think: first things first. Get a basic page running, then your first feature, then your second. The advantages of doing things this way are that you can evaluate progress in real-time and change direction as needed. You minimize your risk because your system is already running. You may not yet have all the features you had imagined, but it’s running!
 
 ---
-##2. Think about your personal requirements
+## 2. Think about your personal requirements
 
 Keep your problem space in mind. The technology you choose should depend on the problem you want to solve. Some things are better done in one language than another — for example, Python is great for computation and statistics.
 
